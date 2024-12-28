@@ -1,0 +1,28 @@
+header {
+    font-family: Edwardian Script;
+    background-color: #ab0b00;
+    text-align: center;
+}
+
+.lala{
+   color: #820800;
+   text-align: center;
+}
+
+table{
+    border:1px solid red; 
+     border-collapse:collapse; 
+}
+
+tr{
+    border:1px solid red; 
+    border-collapse:colaps; 
+}
+
+td{
+    border:1px solid red;  
+}
+
+table td{
+    text-align:center;
+}
